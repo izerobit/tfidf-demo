@@ -1,0 +1,6 @@
+version: "2.2"
+services:
+
+  zoo1:
+    image: tfidf-demo:latest
+    container_name: tfidf-demo
